@@ -1,0 +1,10 @@
+{
+    "Name": "Zinette Town",
+    "Author": "EchoTheDeveloper",
+    "Version": "1.0.0",
+    "Description": "Zinette Town is a mod that adds a whole new town along with NPCs and even new marriage candidets!",
+    "UniqueID": "notechodev.ztown",
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "Format": "2.0.5",
+ 
+    "CustomLocations": [
+       {
+          "Name": "Custom_SZTown",
+          "FromMapFile": "assets/South_Zinette.tmx"
+       },
+       {
+         "Name": "Custom_Bizin_Forest",
+         "FromMapFile": "assets/Bizin_Forest"
+       },
+       {
+         "Name": "Custom_Trailer_Park",
+         "FromMapFile": "assets/Trailer_Park"
+       }
+    ]
+}
